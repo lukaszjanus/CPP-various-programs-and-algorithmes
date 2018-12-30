@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1499809120 source:c:\users\£ukasz\desktop\ericsson\10072017\tablice\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1500157138 source:c:\users\£ukasz\desktop\ericsson\10072017\tablice sudoku\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1500158196 source:c:\users\£ukasz\desktop\ericsson\domowe 1 - tablice sudoku\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+

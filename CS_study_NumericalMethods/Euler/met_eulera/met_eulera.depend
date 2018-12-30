@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1495923642 source:c:\users\£ukasz\desktop\27-05-2017 euler numeryczne\met_eulera\main.cpp
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	<iostream>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1502560542 source:c:\users\domowy\desktop\game\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<time.h>
+
+1502645479 source:c:\users\£ukasz\desktop\game\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<vector>
+
+1502647465 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game v 14072017 sterowanie dwie osoby\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<vector>
+

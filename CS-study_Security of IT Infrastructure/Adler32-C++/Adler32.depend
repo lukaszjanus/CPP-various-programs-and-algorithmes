@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1527775977 source:c:\users\£ukasz\desktop\adler32\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"adler.h"
+
+1527620508 c:\users\£ukasz\desktop\adler32\adler.h
+	<string>
+
+1527620508 source:c:\users\£ukasz\desktop\adler32\adler.cpp
+	"adler.h"
+	<string>
+

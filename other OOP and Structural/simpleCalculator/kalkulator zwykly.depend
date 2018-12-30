@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1490459613 source:c:\users\£ukasz\desktop\programy przepisane na klasy\kalkulator zwykly\kalk.cpp
+	<iostream>
+	"kalk.h"
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1490459749 c:\users\£ukasz\desktop\programy przepisane na klasy\kalkulator zwykly\kalk.h
+	<iostream>
+
+1490455133 source:c:\users\£ukasz\desktop\programy przepisane na klasy\kalkulator zwykly\main.cpp
+	<iostream>
+	"kalk.h"
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1490459613 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\kalkulator zwykly\kalk.cpp
+	<iostream>
+	"kalk.h"
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1490459749 c:\users\domowy\desktop\c++\programy przepisane na klasy\kalkulator zwykly\kalk.h
+	<iostream>
+
+1490455133 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\kalkulator zwykly\main.cpp
+	<iostream>
+	"kalk.h"
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+

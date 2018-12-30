@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494332248 source:c:\users\£ukasz\desktop\studia\ii rok iv semestr\metody numeryczne\zaj2\main.cpp
+	<conio.h>
+	<math.h>
+	<iostream>
+

@@ -1,0 +1,96 @@
+#include <iostream>
+#include <cstring>
+#include <string>
+#include <ctime>
+#include <cmath>
+#include <conio.h>
+#include <cstdlib>
+
+#include "adler.h"
+
+using namespace std;
+
+/*
+Adler32
+
+Program - dzia³anie:
+1. Losuje 100000 ciagow znakow k-literowych (min. 10) i policzyc adler 32 (tylko male litery)
+2. Znajduje kolizje pomiedzy 1. i wyswietla oba ciagi znakow i Adler32.
+3. Policzyc ile kolizji.
+
+Te same sumy kontrolne - moga byc przy tych samych ciagach znaków
+(dlatego pow. 10, aby tak nie by³o) lub jak bêd¹ kolizje.
+
+Dlugosc ustawic na 19 znakow.
+
+*/
+
+unsigned int adler32(string str)
+{
+    int A=1;
+    int B=0;
+
+    //B=B*65536+A;
+
+    for (int i=0; i<str.length();i++)
+    {
+        A=(A+str[i])%65521;
+        B=(B+A)%65521;
+    }
+
+    return B*65536+A;
+}
+
+int main()
+{
+    //string m1="test";   //powinno wyjsc 73204161
+    //string m2="tset";    //powinno wyjsc 74121665
+    //srand(time(NULL));
+    const int n=19;  //dlugosc ciagu
+    const int iMax=5;
+    //cout<<"Podaj n (dlugosc ciagu): ";
+    //cin>>n;
+
+    //string tekst="test";
+    //cout<<adler32(tekst);
+
+   // string **tekst;
+   // tekst = new string*[iMax];
+
+    char tekst[iMax][n];
+
+    unsigned int tab[iMax];
+
+    for (int i=0;i<iMax;i++)
+    {
+        //tekst[i] = new string[n];
+//        tekst[i]="";
+
+        for(int j=0;j<n;j++)
+        {
+            int temp=rand()%26+97;
+            cout<<temp<<" ";
+//            tekst[i][j]+=(string)temp;
+            cout<<tekst[i][j]<<endl;
+        }
+
+        //cout<<tekst[i]<<endl;
+        getch();
+        cout<<endl;
+       // tab[i]=adler32("test");
+        //tekst="";
+
+    }
+    for (int i=0; i<iMax;i++)
+    {
+       // for ( int j = 0; j < n; ++j) cout<<tekst[i][j];
+        cout<<endl;
+    }
+
+    cout<<tekst[0];
+
+
+
+
+    return 0;
+}

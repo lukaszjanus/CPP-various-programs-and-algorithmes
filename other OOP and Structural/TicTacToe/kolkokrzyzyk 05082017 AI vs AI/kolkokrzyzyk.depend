@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1501951140 source:c:\users\domowy\desktop\kolkokrzyzyk\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1501947698 source:d:\gitcpp\cpp-variousalgorithms\oop_other\tictactoe\kolkokrzyzyk 05082017\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+

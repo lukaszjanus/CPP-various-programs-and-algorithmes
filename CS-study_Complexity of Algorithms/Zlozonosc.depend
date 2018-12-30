@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515850427 source:c:\users\£ukasz\desktop\zlozonosc\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<cstring>
+	<conio.h>
+

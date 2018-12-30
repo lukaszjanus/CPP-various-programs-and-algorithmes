@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1526204614 source:c:\users\£ukasz\desktop\rsab\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<time.h>
+

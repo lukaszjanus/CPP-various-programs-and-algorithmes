@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516051627 source:c:\users\£ukasz\desktop\thread\main.cpp
+	<iostream>
+	<string>
+	<thread>
+	<mutex>
+

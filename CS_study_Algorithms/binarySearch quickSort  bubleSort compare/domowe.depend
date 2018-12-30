@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1461971431 source:c:\users\semen\desktop\asd1z_£ukasz_janus sortowanie search binsearch\domowe\f1.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1461971271 c:\users\semen\desktop\asd1z_£ukasz_janus sortowanie search binsearch\domowe\spis.h
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1461971310 source:c:\users\semen\desktop\asd1z_£ukasz_janus sortowanie search binsearch\domowe\main.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1461971653 source:c:\users\semen\desktop\asd1z_£ukasz_janus sortowanie search binsearch\domowe\f2.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1462806242 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\domowe\f1.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1462806433 c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\domowe\spis.h
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+
+1462721430 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\domowe\f2.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1462805776 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\domowe\main.cpp
+	<cstdlib>
+	<iostream>
+	"spis.h"
+
+1463506194 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\main.cpp
+	<cstdlib>
+	<iostream>
+	"spis.h"
+
+1464116552 c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\spis.h
+	<iostream>
+
+1463505503 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\f1.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1463505424 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\f3.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1463505743 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\quicksort.cpp
+	<iostream>
+	"spis.h"
+
+1463506194 source:c:\users\semen\desktop\programowanie2\asd1z_£ukasz_janus sortowanie search binsearch\asd1z_£ukasz_janus sortowanie search binsearch\f1_f2_funkcje_wyszkukiwanie_sortowanie.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1463502594 source:d:\studia\informatyka 2015-\c++\algorytmy\generator liczb sortowanie binsearch quicksort  buble sort\f1_f2_funkcje_wyszkukiwanie_sortowanie.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+	"spis.h"
+
+1464112952 d:\studia\informatyka 2015-\c++\algorytmy\generator liczb sortowanie binsearch quicksort  buble sort\spis.h
+	<iostream>
+
+1464112952 source:d:\studia\informatyka 2015-\c++\algorytmy\generator liczb sortowanie binsearch quicksort  buble sort\main.cpp
+	<cstdlib>
+	<iostream>
+	"spis.h"
+
+1464112952 source:d:\studia\informatyka 2015-\c++\algorytmy\generator liczb sortowanie binsearch quicksort  buble sort\quicksort.cpp
+	<iostream>
+	"spis.h"
+

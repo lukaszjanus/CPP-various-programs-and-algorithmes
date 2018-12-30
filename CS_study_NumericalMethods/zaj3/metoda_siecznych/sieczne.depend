@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492982013 source:c:\users\£ukasz\desktop\metody numeryczne\falsi\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<cstdlib>
+

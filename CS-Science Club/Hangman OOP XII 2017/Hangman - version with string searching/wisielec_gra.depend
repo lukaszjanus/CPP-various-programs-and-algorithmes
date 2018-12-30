@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1513721130 source:c:\users\domowy\desktop\wisielec_gra\main.cpp
+	<iostream>
+	"view.h"
+
+1513718903 c:\users\domowy\desktop\wisielec_gra\view.h
+	"engine.h"
+
+1513720991 source:c:\users\domowy\desktop\wisielec_gra\view.cpp
+	"view.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
+1513721071 source:c:\users\domowy\desktop\wisielec_gra\engine.cpp
+	"engine.h"
+
+1513718925 c:\users\domowy\desktop\wisielec_gra\engine.h
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1514399110 source:c:\users\ㄆkasz\desktop\wisielec\engine.cpp
+	"engine.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1514399110 c:\users\ㄆkasz\desktop\wisielec\engine.h
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1514399110 source:c:\users\ㄆkasz\desktop\wisielec\main.cpp
+	<iostream>
+	"view.h"
+
+1514399110 c:\users\ㄆkasz\desktop\wisielec\view.h
+	"engine.h"
+
+1514396777 source:c:\users\ㄆkasz\desktop\wisielec\view.cpp
+	"view.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
+1513892469 source:c:\users\ㄆkasz\desktop\wisielec\game.cpp
+	"game.h"
+	<string>
+
+1513892457 c:\users\ㄆkasz\desktop\wisielec\game.h
+	"engine.h"
+
+1514399112 source:d:\studia\informatyka 2015-\ko這 naukowe\zaj 2 wisielec xii 2017\wisielec - wersja z szukaniem wzorca\engine.cpp
+	"engine.h"
+	<string>
+	<fstream>
+	<iostream>
+
+1514399112 d:\studia\informatyka 2015-\ko這 naukowe\zaj 2 wisielec xii 2017\wisielec - wersja z szukaniem wzorca\engine.h
+	<iostream>
+	<windows.h>
+	<time.h>
+
+1514399246 source:d:\studia\informatyka 2015-\ko這 naukowe\zaj 2 wisielec xii 2017\wisielec - wersja z szukaniem wzorca\view.cpp
+	"view.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+
+1514399112 d:\studia\informatyka 2015-\ko這 naukowe\zaj 2 wisielec xii 2017\wisielec - wersja z szukaniem wzorca\view.h
+	"engine.h"
+

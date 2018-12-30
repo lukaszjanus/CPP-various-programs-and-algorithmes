@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515922625 source:c:\users\£ukasz\desktop\aitest\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

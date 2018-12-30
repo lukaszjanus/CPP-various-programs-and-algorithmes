@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1461943670 source:c:\users\semen\desktop\programowanie2\sortowanie_binarne\main.cpp
+	<math.h>
+	<cstdlib>
+	<iostream>
+	<cmath>
+

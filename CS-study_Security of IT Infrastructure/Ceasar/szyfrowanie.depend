@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1521915338 source:e:\roboczy\lj\szyfrowanie\cezar.cpp
+	"Cezar.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cctype>
+
+1521915113 e:\roboczy\lj\szyfrowanie\cezar.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1521914709 source:e:\roboczy\lj\szyfrowanie\main.cpp
+	<iostream>
+	"Cezar.h"
+
+1522012303 source:c:\users\£ukasz\desktop\szyfrowanie\main.cpp
+	<iostream>
+	"Cezar.h"
+
+1522012303 c:\users\£ukasz\desktop\szyfrowanie\cezar.h
+	<iostream>
+	<cstring>
+	<cstdlib>
+
+1522012581 source:c:\users\£ukasz\desktop\szyfrowanie\cezar.cpp
+	"Cezar.h"
+	<iostream>
+	<cstring>
+	<fstream>
+	<cctype>
+

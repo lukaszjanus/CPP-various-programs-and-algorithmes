@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493314881 source:c:\users\£ukasz\desktop\algorytmy drzewo\drzewo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1494707060 source:c:\users\£ukasz\desktop\algorytmy drzewo2 strumienie\drzewo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

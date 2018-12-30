@@ -1,0 +1,35 @@
+#include <iostream>
+#include <sstream> //Biblioteka ze stringstream
+
+using namespace std;
+
+int Str2Int(const string &Str)
+{
+    int A;
+    stringstream ss;
+    ss<<Str; //"£adowanie" string'a do strumienia
+    ss>>A; //Automatyczna konwersja ze string'a na int'a.. mo¿liwa jest równie¿ oczywiœcie konwersja na typy float, czy double
+    return A;
+}
+
+string Int2Str(int Val)
+{
+    string A;
+    stringstream ss;
+    ss<<Val;
+    ss>>A;
+    return A; //Mo¿esz te¿ napisaæ: return ss.str(); zamiast tych dwóch ostatnich linijek 
+}
+
+int main()
+{
+    string Text="1204";
+    int Value=Str2Int(Text)+30;    
+    
+    cout<<Value<<"\n";
+    
+    Text="AB"+Int2Str(Value)+"BA";
+    
+    cout<<Text;
+    
+}

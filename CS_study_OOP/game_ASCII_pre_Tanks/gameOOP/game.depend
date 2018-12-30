@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1503164520 source:c:\users\domowy\desktop\game\main.cpp
+	"cGame.h"
+	"cTxt.h"
+
+1502829214 source:c:\users\£ukasz\desktop\game\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<vector>
+
+1503162100 source:c:\users\domowy\desktop\game\cengine.cpp
+	"cEngine.h"
+	"cGame.h"
+	"cGracz.h"
+	"cFire.h"
+	<windows.h>
+	<time.h>
+
+1503167065 c:\users\domowy\desktop\game\cengine.h
+	"cGracz.h"
+	"cFire.h"
+
+1503161676 c:\users\domowy\desktop\game\cgracz.h
+	<string>
+
+1503161550 c:\users\domowy\desktop\game\cfire.h
+	<iostream>
+	<conio.h>
+	<vector>
+
+1503167369 c:\users\domowy\desktop\game\cgame.h
+	"cEngine.h"
+
+1503161493 source:c:\users\domowy\desktop\game\cfire.cpp
+	"cFire.h"
+	<vector>
+
+1503165183 source:c:\users\domowy\desktop\game\cgame.cpp
+	"cGame.h"
+	"cEngine.h"
+
+1503161620 source:c:\users\domowy\desktop\game\cgracz.cpp
+	"cGracz.h"
+	"cEngine.h"
+
+1503165183 source:c:\users\domowy\desktop\game\ctxt.cpp
+	"cTxt.h"
+	<iostream>
+	<windows.h>
+
+1503161816 c:\users\domowy\desktop\game\ctxt.h
+	"cGame.h"
+
+1503158500 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cengine.cpp
+	"cEngine.h"
+	"cGame.h"
+	"cGracz.h"
+	"cFire.h"
+	<windows.h>
+	<time.h>
+
+1503163465 c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cengine.h
+	"cGracz.h"
+	"cFire.h"
+
+1503164762 c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cgracz.h
+	<string>
+
+1503165511 c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cfire.h
+	<iostream>
+	<conio.h>
+	<vector>
+
+1503164508 c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cgame.h
+	"cEngine.h"
+
+1503157893 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cfire.cpp
+	"cFire.h"
+	<vector>
+
+1503158020 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cgracz.cpp
+	"cGracz.h"
+	"cEngine.h"
+
+1503161583 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\ctxt.cpp
+	"cTxt.h"
+	<iostream>
+	<windows.h>
+
+1503165511 c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\ctxt.h
+	"cGame.h"
+
+1514053606 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\cgame.cpp
+	"cGame.h"
+	"cEngine.h"
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1503170454 source:c:\users\domowy\desktop\c++\programy przepisane na klasy\game - plansza dwa punkty strzelaja do siebie\game wersja z rozdzielonymi plikami\main.cpp
+	"cGame.h"
+	"cTxt.h"
+
+1503158500 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cengine.cpp
+	"cEngine.h"
+	"cGame.h"
+	"cGracz.h"
+	"cFire.h"
+	<windows.h>
+	<time.h>
+
+1503163465 d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cengine.h
+	"cGracz.h"
+	"cFire.h"
+
+1503164762 d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cgracz.h
+	<string>
+
+1503165511 d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cfire.h
+	<iostream>
+	<conio.h>
+	<vector>
+
+1503164508 d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cgame.h
+	"cEngine.h"
+
+1503157893 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cfire.cpp
+	"cFire.h"
+	<vector>
+
+1514053606 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cgame.cpp
+	"cGame.h"
+	"cEngine.h"
+	<windows.h>
+	<ctime>
+	<cstdlib>
+
+1503158020 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\cgracz.cpp
+	"cGracz.h"
+	"cEngine.h"
+
+1503161583 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\ctxt.cpp
+	"cTxt.h"
+	<iostream>
+	<windows.h>
+
+1503165511 d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\ctxt.h
+	"cGame.h"
+
+1503170454 source:d:\gitcpp\cpp-variousalgorithms\oop_other\game_ascii_pre_tanks\gameoop\main.cpp
+	"cGame.h"
+	"cTxt.h"
+

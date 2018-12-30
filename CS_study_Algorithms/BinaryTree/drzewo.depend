@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493322863 source:c:\users\£ukasz\desktop\drzewo\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1493321156 source:d:\studia\informatyka 2015-\ii rok iv semestr\algorytmy\heap_sort 2 randomowy\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+

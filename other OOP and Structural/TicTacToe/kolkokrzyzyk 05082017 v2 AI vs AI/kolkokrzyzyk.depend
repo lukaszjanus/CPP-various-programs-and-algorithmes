@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1501966370 source:c:\users\domowy\desktop\kolkokrzyzyk\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+

@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1489872908 source:c:\users\£ukasz\desktop\c++ kuczmarski\gra_zycie\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	"zycie.h"
+
+1489488454 source:c:\users\£ukasz\desktop\c++ kuczmarski\gra_zycie\zycie.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"zycie.h"
+
+1489488494 c:\users\£ukasz\desktop\c++ kuczmarski\gra_zycie\zycie.h
+	<iostream>
+
+1489492054 source:c:\users\£ukasz\desktop\studia\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\zycie.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"zycie.h"
+
+1489492094 c:\users\£ukasz\desktop\studia\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\zycie.h
+	<iostream>
+
+1490537823 source:c:\users\£ukasz\desktop\studia\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	"zycie.h"
+
+1490534223 source:d:\studia\informatyka 2015-\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	"zycie.h"
+
+1489488494 d:\studia\informatyka 2015-\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\zycie.h
+	<iostream>
+
+1489488454 source:d:\studia\informatyka 2015-\ii rok iv semestr\jezyki obiektowe\gra_zycie v1 strukturalna\zycie.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"zycie.h"
+

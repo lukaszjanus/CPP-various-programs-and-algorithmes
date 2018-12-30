@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1491393446 source:c:\users\£ukasz\desktop\studia\ii rok iv semestr\xml\dni_tygodnia_rekurencja\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<string>
+
+1491394299 source:c:\users\£ukasz\desktop\studia\ii rok iv semestr\xml\dni_tygodnia_wstecz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<string>
+
+1546206250 source:d:\studia\informatyka 2015-\c++\rekurencja - rozne\dni_tygodnia_wstecz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<string>
+
